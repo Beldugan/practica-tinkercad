@@ -1,0 +1,10 @@
+{
+  "name": "Caiet de practică IX E · Tinkercad și imprimare 3D",
+  "short_name": "Practică IX E",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f0e8",
+  "theme_color": "#18283a",
+  "lang": "ro",
+  "icons": [{ "src": "img/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
